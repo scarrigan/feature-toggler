@@ -1,8 +1,8 @@
 {
-  "name": "feature-toggle",
+  "name": "feature-toggler",
   "version": "0.0.1",
   "main": [
-    "feature-toggle.js"
+    "feature-toggler.js"
   ],
   "ignore": [
     "package.json"
