@@ -2,7 +2,7 @@
 
 Uses the localstorage to save which features are active and which aren't.
 
-<strong>Set availableFeatures with the features you support in the start of your app</strong><br>
+<strong>Set availableFeatures with the features you support at the start of your app</strong><br>
 window.features.availableFeatures = ['myfeature1', 'myfeature2']
 
 <h3>API</h3>
