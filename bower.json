@@ -2,7 +2,7 @@
   "name": "feature-toggle",
   "version": "0.0.1",
   "main": [
-    "feature-toggle.js",
+    "feature-toggle.js"
   ],
   "ignore": [
     "package.json"
