@@ -1,0 +1,13 @@
+{
+  "name": "feature-toggle",
+  "version": "0.0.1",
+  "main": [
+    "feature-toggle.js",
+  ],
+  "ignore": [
+    "package.json"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
